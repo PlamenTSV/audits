@@ -4,11 +4,12 @@ A collection and summary of my public security reviews and contributions will be
 ## Public Contests
 | Protocol           | Date       | Type                | Findings             | Report      |
 | :----------------- | :---------:| :-----------------: | :------------------: | :---------: |
-| Hubble Exchange        |  June 2023 |  Perpetual Futures, Limit Order  |  2 M  | [Source](https://audits.sherlock.xyz/contests/72/report)  |
-| Dinari        |  July 2023  |  ERC20, Brokerage   |  1 H           | [Source](https://audits.sherlock.xyz/contests/98/report)   |
+| Hubble Exchange        |  June 2023 |  Perpetual Futures, Limit Order  |  2 M  | [Sherlock](https://audits.sherlock.xyz/contests/72/report)  |
+| Dinari        |  July 2023  |  ERC20, Arbitrum   |  1 H           | [Sherlock](https://audits.sherlock.xyz/contests/98/report)   |
+| Beedle        |  July 2023  |  ERC20, Perpetual Lending, P2P   |  4 H, 3 M, 4 QA | [CodeHawks](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx)   |
 
 ## Contact Me
 I am available for private security reviews. Reach out to me on:
-  - Twitter: @p_tsanev
+  - Twitter: [@p_tsanev](https://twitter.com/p_tsanev)
   - Email: plmn.tsanev@gmail.com
   - Discord: plamkata
