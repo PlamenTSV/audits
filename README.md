@@ -15,7 +15,7 @@ A collection and summary of my public security reviews and contributions will be
 | Foundry DeFi Stablecoin        |  August 2023  |  ERC20, Escorw   |  1M, 1G           | [Codehawks](https://www.codehawks.com/report/cljx3b9390009liqwuedkn0m0)   |
 | Tangible Caviar       |  August 2023  |  NFT, AMM, ERC-20   |  1H         | [Code4rena(Not public yet)]()   |
 | DittoETH       |  September 2023  |  Orderbook, RWA, Staking   |  1 solo QA         | [Codehawks](https://www.codehawks.com/report/clm871gl00001mp081mzjdlwc)   |
-| RealWagmi #2       |  October 2023  |  Lending, Liquidity, Multichain   |  2H         | [Sherlock(Not public yet)]()   |
+| RealWagmi #2       |  October 2023  |  Lending, Liquidity, Multichain   |  2H         | [Sherlock](https://audits.sherlock.xyz/contests/118/report)   |
 
 
 
