@@ -1,6 +1,11 @@
 # PTsanev's smart contract security reviews and contributions
 A collection and summary of my public security reviews and contributions will be shared here.
 
+## Private audits
+| Protocol           | Report |
+| PulseWars | coming soon | 
+
+
 ## Public Contests
 | Protocol           | Date       | Type                | Findings             | 
 | :----------------- | :---------:| :-----------------: | :------------------: | 
@@ -22,7 +27,10 @@ A collection and summary of my public security reviews and contributions will be
 | [Panoptic](https://code4rena.com/reports/2024-04-panoptic)      |  December 2023  |  ERC1155, Uniswap   |  1M
 | [Catalyst](https://github.com/hats-finance/Catalyst-Exchange-0x3026c1ea29bf1280f99b41934b2cb65d053c9db4/issues)      |  January 2024  |  Cross-chain, DEX   |  1M, 2L
 | [Paladin](https://github.com/hats-finance/Paladin-0x1610bfde27e57b068af7f38aec3d2a7b1d146989/issues)      |  February 2024  |  Vesting, Voting escow   |  1H, 2M
-
+| [Convergence - Convex integration](https://github.com/hats-finance/Convergence---Convex-integration-0xb3df23e155b74ad2b93777f58980d6727e8b40bb/issues)      |  May 2024  |  DAO, Convex   |  Lead Auditor
+| [Inverter Network](https://github.com/hats-finance/Inverter-Network-0xe47e52c4fea05e555920f1dcdcc6fb8eca103eeb/issues)      |  June 2024  |  Modular asset management  | Lead Auditor
+| [WeatherXM - Bug Bounty]      |  June 2024  |  Reward claiming, Merkle trees  | 1M, 1L
+| [Velvet Capital](https://github.com/hats-finance/Velvet-Capital-0x0bb0c08fd9eeaf190064f4c66f11d18182961f77/issues)      |  July 2024  |  Asset Management, Vault portfolios  | 1M, 1L
 
 
 ## Contact Me
