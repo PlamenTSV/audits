@@ -2,7 +2,7 @@
 A collection and summary of my public security reviews and contributions will be shared here.
 
 ## Private audits
-| Protocol           | Report |
+| Protocol  | Report |
 | PulseWars | coming soon | 
 
 
