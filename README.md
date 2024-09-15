@@ -5,6 +5,7 @@ A collection and summary of my public security reviews and contributions will be
 | Protocol  | Report |
 | :------:  | :----: |
 | PulseWars | coming soon | 
+| AwesomeX | coming soon |
 
 
 ## Public Contests
