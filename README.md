@@ -1,4 +1,4 @@
-# PTsanev's smart contract security reviews and contributions
+# Plamen Tsanev's smart contract security reviews and contributions
 A collection and summary of my public security reviews and contributions will be shared here.
 
 ## Private audits
