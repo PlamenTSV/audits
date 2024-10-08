@@ -2,10 +2,8 @@
 A collection and summary of my public security reviews and contributions will be shared here.
 
 ## Private audits
-| Protocol  | Report |
-| :------:  | :----: |
-| PulseWars | coming soon | 
-| AwesomeX | coming soon |
+- [PulseWars]
+- [AwesomeX - perpetual compounding ERC20](private-audits/AwesomeX_v1_report.pdf)
 
 
 ## Public Contests
