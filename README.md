@@ -2,7 +2,7 @@
 A collection and summary of my public security reviews and contributions will be shared here.
 
 ## Private audits
-- [PulseWars]
+- [PulseWars - NFT strategy-based game on PulseChain](private-audits/Pulse-Wars-Security-Review-August-2024.pdf)
 - [AwesomeX - perpetual compounding ERC20](private-audits/AwesomeX_v1_report.pdf)
 
 
