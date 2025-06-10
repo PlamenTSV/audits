@@ -6,7 +6,7 @@ A collection and summary of my public security reviews and contributions will be
 - [AwesomeX - perpetual compounding ERC20](private-audits/AwesomeX_v1_report.pdf)
 
 ## BailSec Team Reports
-A list of audit reports to which I have contributed as part of a team at BailSec 
+A list of public audit reports to which I have contributed as part of a team at BailSec 
 - [Kernel](BailSec-team-reports/Bailsec%20-%20Kernel%20-%20Final%20Report.pdf)
 - [LFJ](BailSec-team-reports/Bailsec%20-%20LFJ%20-%20Final%20Report.pdf)
 - [Liquify](BailSec-team-reports/Bailsec%20-%20Liquify%20-%20Final%20Report.pdf)
