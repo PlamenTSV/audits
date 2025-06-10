@@ -5,6 +5,15 @@ A collection and summary of my public security reviews and contributions will be
 - [PulseWars - NFT strategy-based game on PulseChain](private-audits/Pulse-Wars-Security-Review-August-2024.pdf)
 - [AwesomeX - perpetual compounding ERC20](private-audits/AwesomeX_v1_report.pdf)
 
+## BailSec Team Reports
+A list of audit reports to which I have contributed as part of a team at BailSec 
+- [Kernel](BailSec-team-reports/Bailsec%20-%20Kernel%20-%20Final%20Report.pdf)
+- [LFJ](BailSec-team-reports/Bailsec%20-%20LFJ%20-%20Final%20Report.pdf)
+- [Liquify](BailSec-team-reports/Bailsec%20-%20Liquify%20-%20Final%20Report.pdf)
+- [Lista Dao - USDT Distributor](BailSec-team-reports/Bailsec%20-%20Lista%20Dao%20-%20USDT%20Distributor%20-%201st%20Report.pdf)
+- [Nome](BailSec-team-reports/Bailsec%20-%20Nome%20-%20Final%20Report.pdf)
+- [Stader Labs MaticX](BailSec-team-reports/Bailsec%20-%20Stader%20Labs%20MaticX%20-%201st%20Report.pdf)
+
 
 ## Public Contests
 | Protocol           | Date       | Type                | Findings             | 
