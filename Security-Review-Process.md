@@ -2,7 +2,7 @@
 
 ## Questions to the Project
 
-1. What's the clear scope (.sol files) and nSLOC of the smart contracts?
+1. What's the clear scope (.sol/.rs files) and nSLOC of the smart contracts?
 2. Does the project have well-written specifications & code documentation?
 3. What is the code test coverage percentage?
 4. Have you had any audits so far?
