@@ -15,7 +15,7 @@ A list of public audit reports to which I have contributed as part of a team at 
 - [Stader Labs MaticX](BailSec-team-reports/Bailsec%20-%20Stader%20Labs%20MaticX%20-%201st%20Report.pdf)
 
 ## Completion of Pashov Audit Group's internship program:
-- [Internship completion certificate](security-certificate.png)
+- [Internship completion certificate](SC-ptsanev.png)
 
 ## Public Contests
 | Protocol           | Date       | Type                | Findings             | 
