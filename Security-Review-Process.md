@@ -11,7 +11,7 @@ Based on the answers to the above questions, we can discuss the deadline and pay
 
 ## Vulnerability Fixes Review
 
-After the agreed-upon time has passed, the project will receive the security review report. The project has up to 14 days to apply fixes to issues found. A single iteration of a "fixes review" will be executed by me, free of additional charges, to verify that your fixes are correct and the code is secure.
+After the agreed-upon time has passed, the project will receive the security review report. The project has up to 7 days to apply fixes to issues found. A single iteration of a "fixes review" will be executed by me, free of additional charges, to verify that your fixes are correct and the code is secure.
 
 ### Important Notes for the Fixes Review
 
