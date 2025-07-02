@@ -13,6 +13,11 @@ A list of public audit reports to which I have contributed as part of a team at 
 - [Lista Dao - USDT Distributor](BailSec-team-reports/Bailsec%20-%20Lista%20Dao%20-%20USDT%20Distributor%20-%201st%20Report.pdf)
 - [Nome](BailSec-team-reports/Bailsec%20-%20Nome%20-%20Final%20Report.pdf)
 - [Stader Labs MaticX](BailSec-team-reports/Bailsec%20-%20Stader%20Labs%20MaticX%20-%201st%20Report.pdf)
+- [KelpDAO (Not public)]
+- [Memify (Not public)]
+- [EarningsBay (Not public)]
+- [Hyperdrive (Not public)]
+- [FivePillarToken (Not public)]
 
 ## Completion of Pashov Audit Group's internship program:
 - [Internship completion certificate](SC-ptsanev.png)
