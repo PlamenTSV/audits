@@ -1,7 +1,7 @@
 # Plamen Plamenov Tsanev
 
 **Web3 Security Researcher**  
-Based in Gabrovo, Bulgaria (Remote-ready)  
+Based in Tryavna, Bulgaria 
 plmn.tsanev@gmail.com · [GitHub](https://github.com/PlamenTSV) · [X/Twitter](https://x.com/p_tsanev)
 
 ---
