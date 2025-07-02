@@ -48,8 +48,8 @@ Skilled in vulnerability discovery and responsible disclosure. Passionate about 
 
 ## 📌 References
 
-https://app.hats.finance/profile/ptsanev
-https://profiles.cyfrin.io/u/ptsanev
-https://code4rena.com/@ptsanev
-https://audits.sherlock.xyz/watson/ptsanev
-https://audits.sherlock.xyz/watson/p-tsanev (old profile)
+- https://app.hats.finance/profile/ptsanev
+- https://profiles.cyfrin.io/u/ptsanev
+- https://code4rena.com/@ptsanev
+- https://audits.sherlock.xyz/watson/ptsanev
+- https://audits.sherlock.xyz/watson/p-tsanev (old profile)
