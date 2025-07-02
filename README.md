@@ -5,6 +5,11 @@ A collection and summary of my public security reviews and contributions will be
 - [PulseWars - NFT strategy-based game on PulseChain](private-audits/Pulse-Wars-Security-Review-August-2024.pdf)
 - [AwesomeX - perpetual compounding ERC20](private-audits/AwesomeX_v1_report.pdf)
 
+## Shieldify Team Reports
+A list of public audit reports to which I have contributed as part of a team at Shieldify 
+- [Credify (Not public)]()
+- [Colb Fianance (Not public)]()
+
 ## BailSec Team Reports
 A list of public audit reports to which I have contributed as part of a team at BailSec 
 - [Kernel](BailSec-team-reports/Bailsec%20-%20Kernel%20-%20Final%20Report.pdf)
