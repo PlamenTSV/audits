@@ -46,7 +46,7 @@ Skilled in vulnerability discovery and responsible disclosure. Passionate about 
 ---
 
 
-## 📌 References
+## 📌 Public Profiles
 
 - https://app.hats.finance/profile/ptsanev
 - https://profiles.cyfrin.io/u/ptsanev
